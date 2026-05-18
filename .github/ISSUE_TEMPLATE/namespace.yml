@@ -8,6 +8,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        ### Claiming ownership of a namespace
+        
         Our objective with the Open VSX Namespace approval process is to provide an open and transparent process
         and set of records (issues) to document requests, processing and approval of Open VSX namespace ownership.
         A further goal is ensure the publishers and extensions are legitimate, do not misrepresent themselves and do
@@ -26,15 +28,15 @@ body:
       label: Ownership
       options:
         - label: The namespace is not currently owned on Open VSX (verify by a search on [open-vsx.org](https://open-vsx.org))
-          required: true
+          required: false
   - type: checkboxes
     id: account-age
     attributes:
       label: Account Age
       options:
         - label: The GitHub ID making this request has at least 12 months of public history
-          required: true
-  - type: markdown
+          required: false
+  - type: textarea
     attributes:
       value: |
         ### Chose one of the following four use cases and respond to the items
