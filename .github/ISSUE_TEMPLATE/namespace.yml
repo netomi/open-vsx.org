@@ -8,12 +8,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### Claiming ownership of a namespace
-        
-        Our objective with the Open VSX Namespace approval process is to provide an open and transparent process
-        and set of records (issues) to document requests, processing and approval of Open VSX namespace ownership.
+        Our objective with the **Open VSX** Namespace approval process is to provide an open and transparent process
+        and set of records (issues) to document requests, processing and approval of **Open VSX** namespace ownership.
+
         A further goal is ensure the publishers and extensions are legitimate, do not misrepresent themselves and do
-        not introduce confusion between extensions published on the VS Code Marketplace and the Open VSX Registry.
+        not introduce confusion between extensions published on the VS Code Marketplace and the **Open VSX** Registry.
+
         To those ends, please place check marks on the following items that apply to your request and provide the
         requested information. If you fail to do so, your request will not be approved.
   - type: input
