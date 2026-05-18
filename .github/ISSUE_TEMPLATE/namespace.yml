@@ -38,6 +38,7 @@ body:
           required: false
   - type: textarea
     attributes:
+      label: Claim evidence
       value: |
         ### Chose one of the following four use cases and respond to the items
         - [ ] __1__ - The namespace is also a publisher account on the VS Code Marketplace (check by browsing https://marketplace.visualstudio.com/publishers/{publisher}) and has an extension published there.
